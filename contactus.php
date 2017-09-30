@@ -143,7 +143,7 @@ include("configure1.php");
         <div class="col-sm-3 col-lg-7">
             <div class="box-inner">
                 <div class="box-header well" data-original-title="">
-                    <h2>CONTACT US</h2>
+                    <h2>LOCATION</h2>
 
                     <div class="box-icon">
                         
@@ -154,9 +154,9 @@ include("configure1.php");
                         <thead>
                        
                         </thead>
-<iframe width="715" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com.ph/maps/place/Municipality+of+San+Antonio,+San+Antonio+Municipal+Hall,+Hererra+Street,+San+Antonio,+3108+Nueva+Ecija/@15.3063614,120.8573449,16z/data=!4m2!3m1!1s0x3396dfce6188891b:0x7c7dcd107ad2a5d7" style="border: 1px solid black">View the <a href="http://openstreetmap.org.ph/map/all+of+philipppines">Map of All of Philipppines</a> or visit <a href="http://openstreetmap.org.ph/">Philippines Open Street Map</a></iframe>
-<hr/>
-                       <tr> <i class=" glyphicon glyphicon-envelope red"></i>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7696.55626476108!2d120.8568031!3d15.3071128!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3396dfce8b9549e1%3A0xfcf032c3db118fd7!2sSan+Antonio+Municipal+Hall%2C+San+Antonio%2C+Nueva+Ecija!5e0!3m2!1sen!2sph!4v1506710069241" width="710" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                       <br><tr> <i class=" glyphicon glyphicon-envelope red"></i>
+   
 					   <font face="Courier" size="4" color="black"> EMAIL </font> 
 						</tr><br><br>
 						<tr>
